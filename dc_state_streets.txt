@@ -1,0 +1,79 @@
+0 STATES WITH NO STREET IN WASHINGTON DC
+[]
+
+
+50 STATES WITH A STREET IN WASHINGTON DC
+['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
+
+
+Alabama Avenue SE
+Alaska Avenue NW
+Arizona Avenue NW
+Arizona Ter NW
+Arkansas Avenue NW
+California Street NW
+Colorado Avenue NW
+Connecticut Avenue NW
+Delaware Avenue SW
+Florida Avenue NE
+Florida Avenue NW
+Georgia Avenue NW
+Hawaii Avenue
+Hawaii Avenue NE
+Idaho Avenue NW
+Illinois Avenue NW
+Indiana Avenue NW
+Iowa Avenue
+Iowa Avenue NW
+Kansas Avenue NE
+Kansas Avenue NW
+Kentucky Avenue SE
+Louisiana Avenue NE
+Louisiana Avenue NW
+Maine Avenue SW
+Maryland Avenue NE
+Maryland Avenue SW
+Massachusetts Avenue NE
+Massachusetts Avenue NW
+Massachusetts Avenue SE
+Michigan Avenue NE
+Michigan Avenue NW
+Minnesota Avenue NE
+Minnesota Avenue SE
+Mississippi Avenue SE
+Missouri Avenue NW
+Montana Avenue NE
+Nebraska Avenue NW
+Nevada Avenue NW
+New Hampshire Avenue NE
+New Hampshire Avenue NW
+New Jersey Avenue NW
+New Jersey Avenue SE
+New Mexico Avenue NW
+New York Avenue NE
+New York Avenue NW
+North Carolina Avenue NE
+North Carolina Avenue SE
+North Dakota Avenue NW
+Ohio Drive SW
+Oklahoma Avenue NE
+Oregon Avenue NW
+Oregon Knolls Drive NW
+Pennsylvania Avenue NW
+Pennsylvania Avenue SE
+Rhode Island Avenue NE
+Rhode Island Avenue NW
+South Carolina Avenue SE
+South Dakota Avenue NE
+Tennessee Avenue NE
+Texas Avenue SE
+Utah Avenue NW
+Vermont Avenue NW
+Virginia Avenue NW
+Virginia Avenue SE
+Virginia Avenue SW
+Walter Washington Way
+Washington Circle NW
+West Virginia Avenue NE
+Wisconsin Avenue NW
+Wyoming Avenue NW
